@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="807abc59-3b28-492e-9bc1-336ccbae4019" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TinyUrlForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TinyUrlForm.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601080520640</updated>
       <workItem from="1601080523559" duration="2069000" />
-      <workItem from="1601083808114" duration="12431000" />
+      <workItem from="1601083808114" duration="13235000" />
     </task>
     <servers />
   </component>

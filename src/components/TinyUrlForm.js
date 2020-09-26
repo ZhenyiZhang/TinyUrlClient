@@ -26,7 +26,7 @@ const TinyUrlForm = () => {
         if(custom.length === 0) {
             data = {longURL: longURL};
             postURL = await Axios.create({
-                baseURL: 'http://www.sturl.xyz/api/tiny' ,
+                baseURL: 'https://damp-temple-05652.herokuapp.com/api/tiny' ,
                 headers: {
                     'Access-Control-Allow-Origin': '*',
                     'Content-Type' : 'application/json'
@@ -38,7 +38,7 @@ const TinyUrlForm = () => {
                 customCode: custom
             };
             postURL = await Axios.create({
-                baseURL: 'http://www.sturl.xyz/api/tiny/custom' ,
+                baseURL: 'https://damp-temple-05652.herokuapp.com/api/tiny/custom' ,
                 headers: {
                     'Access-Control-Allow-Origin': '*',
                     'Content-Type' : 'application/json'
